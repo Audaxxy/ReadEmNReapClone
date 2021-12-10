@@ -5,16 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/TempMainMenuScene.unity
+    guid: e6a248821e578244197373d0861f71b5
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 0
     path: Assets/Scenes/VR_BodyandHands.unity
     guid: 7624434056cf91b45b7a51a29c7953aa
   - enabled: 0
-    path: Assets/Scenes/TempMainMenuScene.unity
-    guid: e6a248821e578244197373d0861f71b5
-  - enabled: 1
     path: Assets/Scenes/VR_UI_Integration.unity
     guid: dcddd423544ce2d47b57dfdfc4aba742
   m_configObjects:
